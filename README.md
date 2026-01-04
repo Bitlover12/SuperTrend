@@ -2,6 +2,20 @@
 렌코차트를 이용한 이유는 가장 간단, 적은량의 정보만을 필요로해서 계산량이 줄고 오히려 더 명확하게 할 수 있을거라 기대함.
 수수료 0.05프로를 주고 아래 백테스트를 진행함 기간은 365일
 
+BotConfig: 설정값 고정	
+ExchangeClient: 거래소 API 받아오기	
+	fetch_ohlcv_df: OHLCV를 가져와 Dataframe으로 변환
+Portfolio: 내 정보 (진입가 현재가 포지션 정보)	
+StrategyState: 전략,신호 플래그/ 슈퍼트랜드 플래그	
+RenkoEngine: 렌코차트 생성 및 업데이트	
+IndicatorEngine: 인디케이터	
+ExecutionService: 포지션 / 잔고 / 주문 실행	
+StrategyEngine: 렌코 업데이트 실행함수 / 진입 청산 판단 /웹훅 처리	
+WebhookServer: Flask 서버 처리	
+SchedulerService: 스케줄러 관리	
+BotOrchestrator: 실행은 여기서	
+
+
 
 
 
