@@ -15,6 +15,11 @@ WebhookServer: Flask 서버 처리
 SchedulerService: 스케줄러 관리	
 BotOrchestrator: 실행은 여기서	
 
+<img width="847" height="245" alt="image" src="https://github.com/user-attachments/assets/25be351d-75fe-4856-923d-a367176f9e25" />
+<img width="688" height="248" alt="image" src="https://github.com/user-attachments/assets/25d839fc-0d53-4b63-98ed-16c10f79261f" />
+<img width="952" height="490" alt="image" src="https://github.com/user-attachments/assets/246263e0-6b3e-4656-b027-7a1df6afecde" />
+<img width="952" height="490" alt="image" src="https://github.com/user-attachments/assets/65ec5d14-5151-4bde-8a20-0c2f6d916f02" />
+
 
 
 
