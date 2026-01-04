@@ -1,13 +1,9 @@
 기초 개념은 렌코차트 트래디셔널로 블록 사이즈를 설정하고 슈퍼트렌드를 사용하여 아래의 백테스트를 진행
 렌코차트를 이용한 이유는 가장 간단, 적은량의 정보만을 필요로해서 계산량이 줄고 오히려 더 명확하게 할 수 있을거라 기대함.
 수수료 0.05프로를 주고 아래 백테스트를 진행함 기간은 365일
-<img width="786" height="550" alt="image" src="https://github.com/user-attachments/assets/71749916-3b5e-432c-9335-7ceaf50ce9b8" />
-<img width="766" height="575" alt="image" src="https://github.com/user-attachments/assets/28f2f157-a88b-4f58-a999-da060a9828ee" />
-<img width="747" height="198" alt="image" src="https://github.com/user-attachments/assets/dca99d59-22ee-4ae6-bc54-c239583a190c" />
-<img width="708" height="87" alt="image" src="https://github.com/user-attachments/assets/d947e19d-5f02-48a7-9f87-99c8c33ace7f" />
-<img width="771" height="367" alt="image" src="https://github.com/user-attachments/assets/40d4401b-e09c-4928-b1cf-8f25fb3c5d46" />
-<img width="522" height="676" alt="image" src="https://github.com/user-attachments/assets/bdcab05d-ee87-4986-b2d2-7323fb75ab60" />
-<img width="768" height="252" alt="image" src="https://github.com/user-attachments/assets/b535c32e-4f9d-46db-951f-86b7877d9465" />
+
+
+
 
 <img width="1402" height="401" alt="image" src="https://github.com/user-attachments/assets/4ec156d6-6498-4a20-aed3-5a03fa2a2f87" /># SuperTrend
 Renko, SuperTrend
