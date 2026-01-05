@@ -20,7 +20,7 @@ Flask 서버를 사용하는 이유는 트레이딩뷰에서 웹훅 신호를 �
 <img width="688" height="248" alt="image" src="https://github.com/user-attachments/assets/25d839fc-0d53-4b63-98ed-16c10f79261f" />
 <img width="952" height="490" alt="image" src="https://github.com/user-attachments/assets/246263e0-6b3e-4656-b027-7a1df6afecde" />
 <img width="952" height="490" alt="image" src="https://github.com/user-attachments/assets/65ec5d14-5151-4bde-8a20-0c2f6d916f02" />
-
+리페인팅이자 횡보에 대한 문제로 인해 실제 실행은 힘듦.
 
 
 
