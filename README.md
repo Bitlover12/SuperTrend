@@ -14,7 +14,8 @@ StrategyEngine: 렌코 업데이트 실행함수 / 진입 청산 판단 /웹훅 
 WebhookServer: Flask 서버 처리	
 SchedulerService: 스케줄러 관리	
 BotOrchestrator: 실행은 여기서	
-
+Flask 서버를 사용하는 이유는 트레이딩뷰에서 웹훅 신호를 받아와서 하기 때문 정확히는
+코드에 모든게 있지만 백테스트와 완전히 동기화 하기 위해서 추가적으로 받아오는 신호
 <img width="847" height="245" alt="image" src="https://github.com/user-attachments/assets/25be351d-75fe-4856-923d-a367176f9e25" />
 <img width="688" height="248" alt="image" src="https://github.com/user-attachments/assets/25d839fc-0d53-4b63-98ed-16c10f79261f" />
 <img width="952" height="490" alt="image" src="https://github.com/user-attachments/assets/246263e0-6b3e-4656-b027-7a1df6afecde" />
